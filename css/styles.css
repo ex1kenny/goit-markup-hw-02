@@ -1,0 +1,81 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/2.0.0/modern-normalize.css";
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32;
+}
+.link {
+  text-decoration: none;
+}
+.highlighted {
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.54px;
+  line-height: 21px;
+  text-transform: uppercase;
+}
+.studio {
+  color: #2e2f42;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+
+.backstudio {
+  color: #f4f4fd;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+.page-footer {
+  background-color: #2e2f42;
+}
+.navigation-list {
+  list-style: none;
+}
+.navigation-list li {
+  margin: 10px 0;
+}
+.navigation-list li a {
+  font-weight: 500;
+  color: #2e2f42;
+  text-decoration: none;
+}
+.navigation-list li a:active {
+  color: #404bbf;
+}
+.info-list {
+  margin: 10px 0;
+  font-weight: 400;
+  color: #434455;
+  text-decoration: none;
+}
+.list {
+  list-style-type: none;
+  padding: 0;
+}
+.list li {
+  margin-bottom: 8px;
+}
+.list li a {
+  color: #434455;
+  text-decoration: none;
+}
+
+.list li a:active {
+  color: #404bbf;
+}
