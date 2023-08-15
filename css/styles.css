@@ -23,16 +23,8 @@ body {
 .logo {
   color: #2e2f42;
 }
-
-.backstudio {
+.footer-logo {
   color: #f4f4fd;
-  font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
 }
 .last-title {
   color: #f4f4fd;
