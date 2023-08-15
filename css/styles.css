@@ -133,6 +133,9 @@ h6 {
   line-height: 40px;
   letter-spacing: 0, 72px;
   text-transform: capitalize;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
 }
 .portfolio {
   font-size: 36px;
@@ -141,6 +144,9 @@ h6 {
   line-height: 40px;
   letter-spacing: 0, 72px;
   text-transform: capitalize;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
 }
 .section-title {
   background-color: #f4f4fd;
