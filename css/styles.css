@@ -11,15 +11,14 @@ body {
 .link {
   text-decoration: none;
 }
-.highlighted {
-  color: #4d5ae5;
+.logo {
   font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  font-style: normal;
   font-weight: 700;
-  letter-spacing: 0.03em;
+  font-size: 18px;
   line-height: 1.17;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #4d5ae5;
 }
 .studio {
   color: #2e2f42;
