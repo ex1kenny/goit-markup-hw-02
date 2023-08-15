@@ -58,6 +58,7 @@ body {
   font-weight: 400;
   color: #434455;
   text-decoration: none;
+  font-style: normal;
 }
 .list {
   list-style-type: none;
