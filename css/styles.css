@@ -10,7 +10,6 @@ body {
 }
 .link {
   text-decoration: none;
-  font-family: inherit;
 }
 .header-logo {
   font-family: "Raleway", sans-serif;
@@ -90,9 +89,6 @@ body {
   letter-spacing: 1.12px;
   text-align: center;
   line-height: 1.07;
-}
-:root {
-  --main-color: #fff;
 }
 
 .button {
