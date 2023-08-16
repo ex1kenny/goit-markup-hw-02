@@ -61,7 +61,6 @@ body {
 }
 .list {
   list-style-type: none;
-  padding: 0;
 }
 .list li {
   margin-bottom: 8px;
@@ -92,6 +91,7 @@ body {
 }
 
 .button {
+  color: #ffffff;
   font-family: "Roboto", sans-serif;
   cursor: pointer;
   background-color: #4d5ae5;
