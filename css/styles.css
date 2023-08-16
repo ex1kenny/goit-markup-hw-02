@@ -114,6 +114,9 @@ body {
   color: #fff;
   background-color: #404bbf;
 }
+.button:focus {
+  background-color: #404bbf;
+}
 .container {
   background-color: #2e2f42;
 }
