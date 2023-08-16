@@ -78,6 +78,9 @@ body {
 .list li a:active {
   color: #404bbf;
 }
+.link:focus {
+  color: #404bbf;
+}
 .page-title {
   color: #fff;
   font-size: 56px;
